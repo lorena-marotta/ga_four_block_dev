@@ -1,4 +1,4 @@
-connection: "@{GA4_CONNECTION}"
+connection: "all_events"
 
 label: "Google Analytics 4"
 
